@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">@color/colorfirst</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#1a1a1a</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primarymove">#5b3ca3</color>
+    <color name="primarylite">#ECECEC</color>
+    <color name="backgroundprimary">#F2F2F2</color>
+    <color name="gray">#e0e0e0</color>
+    <color name="gray2">#f2f2f2</color>
+    <color name="red">#d50000</color>
+    <color name="Viollet">#5F39B6</color>
+    <color name="txt_task_description_color">#605971</color>
+    <color name="txt_time_of_task_color">#756F84</color>
+    <color name="background_of_items">#F2F2F2</color>
+    <color name="title_black">#3d3d3d</color>
+    <color name="edit_text_grey">#F2F2F2</color>
+    <color name="sub_title_grey">#756F84</color>
+    <color name="mainblue">#F2ECFF</color>
+    <color name="darkblue">#3561FF</color>
+    <color name="darkblue2">#97B9F9</color>
+    <color name="darkblue3">#090909</color>
+    <color name="mainpink">#FF4666</color>
+    <color name="mainyellow">#FFB64A</color>
+    <color name="fontmain">#0D1340</color>
+    <color name="colorfirst">#1a1a1a</color>
+    <color name="colorsecond">#96f7d2</color>
+    <color name="colorthird">#fac4a2</color>
+    <color name="colorforth">#d3cde6</color>
+    <color name="colorfifth">#fff591</color>
+    <color name="beckeffect">#7E2B2B2B</color>
+    <color name="colorlast">#584A5B</color>
+    <color name="colorlasLite">#99584A5B</color>
+    <color name="contentBodyColor">#F7F8FF</color>
+    <color name="contentTextColor">#020000</color>
+    <color name="colorgray">#A6DFDFDF</color>
+    <color name="maingreen">#6CFF49</color>
+    <color name="grey_font">#ff9e9e9e</color>
+    <color name="edite_text_hint_color">#A8474747</color>
+    <color name="green">#6CFF49</color>
+    <color name="deliveryText">#2b2b2b</color>
+
+
+</resources>

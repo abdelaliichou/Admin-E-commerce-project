@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Admin_Ecommerce</string>
+    <string name="default_notification_channel_id">ali</string>
+</resources>
